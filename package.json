@@ -1,0 +1,23 @@
+{
+  "name": "tarea-ci-cd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JohanM27/tarea-ci-cd.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JohanM27/tarea-ci-cd/issues"
+  },
+  "homepage": "https://github.com/JohanM27/tarea-ci-cd#readme",
+  "devDependencies": {
+    "jest": "^30.3.0"
+  }
+}
